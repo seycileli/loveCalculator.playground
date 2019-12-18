@@ -49,4 +49,7 @@ This is a side note; - for future reference in case you ever want to update or c
  return "Your love score is \(loveScore). You guys were meant to be!"
  
  ^^^^ that is how you use the codes and how you can change, add or subtract things, incase you forget. Always go back to the main codes and re read them. Play around with it until you learn.
- */
+
+The language is similar to Java
+
+*/
