@@ -18,7 +18,7 @@ func loveCalculator (yourName : String, theirName : String) -> String {
     
 }
 
-print(loveCalculator(yourName: "Angela Yu", theirName: "Jack Bauer"))
+print(loveCalculator(yourName: "Nuriya", theirName: "Han Supreme"))
 
 
 
